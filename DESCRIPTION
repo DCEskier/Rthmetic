@@ -1,0 +1,18 @@
+Package: Rthmetic
+Type: Package
+Title: Testing basic package structure by implementing function to sanity check basic arithmetic operations
+Version: 0.1.0
+Authors@R: c(person("Doğa", "Eskier", 
+		role  = c("aut", "trl", "cre"), 
+		email = "dogacorineskier@gmail.com"))
+Maintainer: Doğa Eskier <dogacorineskier@gmail.com>
+Description: Offers basic sanity check for numeric arithmetic
+    operations using single function with three options.
+License: Unlimited
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
+Suggests: 
+    testthat
+URL: https://github.com/DCEskier/Rthmetic
+BugReports: https://github.com/DCEskier/Rthmetic/issues
